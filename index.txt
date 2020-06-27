@@ -5,3 +5,4 @@
 "It is Awesome!"
 "Grate job!"
 "Hello from branch3"
+"New changes"
