@@ -6,3 +6,4 @@
 "Grate job!"
 "Hello from branch3"
 "New changes"
+"One more"
